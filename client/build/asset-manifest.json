@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.293f0147.chunk.css",
+    "main.js": "./static/js/main.0447ebef.chunk.js",
+    "main.js.map": "./static/js/main.0447ebef.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e9d1ec36.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e9d1ec36.js.map",
+    "static/css/2.f16c812b.chunk.css": "./static/css/2.f16c812b.chunk.css",
+    "static/js/2.2a37524a.chunk.js": "./static/js/2.2a37524a.chunk.js",
+    "static/js/2.2a37524a.chunk.js.map": "./static/js/2.2a37524a.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.30919b6dec4a086f8a8f5f4194d84b92.js": "./precache-manifest.30919b6dec4a086f8a8f5f4194d84b92.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.f16c812b.chunk.css.map": "./static/css/2.f16c812b.chunk.css.map",
+    "static/css/main.293f0147.chunk.css.map": "./static/css/main.293f0147.chunk.css.map",
+    "static/js/2.2a37524a.chunk.js.LICENSE.txt": "./static/js/2.2a37524a.chunk.js.LICENSE.txt",
+    "static/media/beautyPuzzle.gif": "./static/media/beautyPuzzle.f0cbce0a.gif",
+    "static/media/confetti-3-x.png": "./static/media/confetti-3-x.89168a14.png",
+    "static/media/il-gamepad-big@3x.png": "./static/media/il-gamepad-big@3x.443d9303.png",
+    "static/media/quit-emoji@3x.png": "./static/media/quit-emoji@3x.ff5aae4c.png",
+    "static/media/step1.png": "./static/media/step1.997db587.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9d1ec36.js",
+    "static/css/2.f16c812b.chunk.css",
+    "static/js/2.2a37524a.chunk.js",
+    "static/css/main.293f0147.chunk.css",
+    "static/js/main.0447ebef.chunk.js"
+  ]
+}

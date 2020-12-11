@@ -1,0 +1,58 @@
+.loser{
+    background: rgb(7, 2, 29);
+    text-align: center;
+    height:100%;
+    color: white;
+}
+
+.inner-loser{
+    display: inline-block;
+    text-align: center;
+    width:280px;
+    height:max-content;
+    margin-top: 100px;
+    background: white;
+    border-radius: 10px;
+    text-align: left;
+    font-weight: 600;
+    font-size:30px;
+    color: rgb(246, 8, 135);
+}
+
+.inner-loser img{
+    width:120px;
+}
+.inner-wrong-img{
+    text-align: center;
+    padding: 10px;
+}
+.inner-winner p{
+    margin-top:-50px;
+    text-align: center;
+}
+
+.reason{
+    font-size:20px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.inner-loser button{
+    margin-left: 2px;
+    background-color:  rgb(241, 7, 175);
+    margin-top:10px;
+    border:1px solid white;
+    font-weight: bold;
+    color: white;
+}
+
+.inner-loser #buttons{
+    text-align: center;
+}
+
+@media screen and (max-height:550px){
+    .inner-loser{
+        margin-top: 80px;
+    }
+}
+

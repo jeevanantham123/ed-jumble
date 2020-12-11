@@ -1,0 +1,37 @@
+#login-button{
+    font-weight: bold;
+    color: white;
+    background-color: rgb(8, 170, 182);
+}
+
+.signup{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.banner{
+    text-align: center;
+}
+
+.banner img{
+    height:170px;
+    width:500px;
+}
+
+.Login{
+    text-align: center;
+}
+
+form{
+    text-align: left;
+    display: inline-block;
+    width:300px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+#home{
+    text-decoration: underline;
+    color: blue;
+}

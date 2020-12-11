@@ -1,0 +1,141 @@
+.game-choosen{
+    background: rgb(7, 2, 29);
+    text-align: center;
+    height:100%;
+    color: white;
+    overflow: scroll;
+}
+
+.game-choosen::-webkit-scrollbar{
+    display: none;
+}
+.inner-game-choosen{
+    display: inline-block;
+    width:280px;
+    height:93%;
+    overflow-y: scroll;
+    padding-bottom: 10px;
+}
+
+.inner-game-choosen::-webkit-scrollbar{
+    display:none;
+}
+.game-banner{
+    color: black;
+    margin-top:5px;
+    border-radius: 10px;
+    display: inline-block;
+    background-color: white;
+    padding: 5px;
+    width:280px;
+}
+.game-banner img{
+    border:2px solid black;
+    width:270px;
+    height:170px;
+    border-radius:0 0 5px 5px;
+}
+
+.game-banner h4{
+    margin-top: 10px;
+}
+
+.game-creator{
+    height:fit-content;
+    text-align: left;
+    display: none;
+    color: black;
+    margin-top:10px;
+    border-radius:8px;
+    background-color: white;
+    padding: 5px;
+    width:280px;
+}
+
+.back-button{
+    padding: 5px;
+    text-align: left;
+    cursor: pointer;
+}
+.back-button img{
+    width:40px;
+    height:40px;
+    background-color: #ffc107;
+    border-radius: 50%;
+    margin:0;
+    padding: 0;
+}
+
+.steps{
+    display: inline-block;
+    width: 280px;
+    height:max-content;
+    padding: 20px;
+    text-align: left;
+    color: black;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color:white;
+}
+
+.steps #gamepad{
+    margin-top:10px;
+    width:235px;
+    text-align: right;
+}
+
+#gamepad img{
+    width:100px;
+    height:100px;
+}
+
+#play-button{
+    background-color: white;
+    position: sticky;
+    display: inline-block;
+    margin-left:0px;
+    width:300px;
+    height:50px;
+    text-align: center;
+    bottom: 0;
+    font-weight: bold;
+    margin-top: 10px;
+    color: rgb(14, 14, 51);
+    padding: 5px;
+}
+
+#game-end{
+    border:2px solid black;
+    background-color: rgb(252, 9, 159);
+    color: white;
+    font-weight: bold;
+    border-radius:5px 5px 0 0;
+    border-bottom: 0;
+}
+
+#play-button button{
+    background-color: rgb(252, 9, 159) ;
+    width:280px;
+    height:40px;
+    font-weight: bold;
+    font-size: 13px;
+    color: white;
+}
+
+#step-img{
+    display: inline-block;
+    width:50px;
+}
+
+@media screen and (max-width: 400px) {
+    .inner-game-choosen{
+        width: 100%;
+    }
+    #play-button{
+        width:100%;
+    }
+    #play-button button{
+        width: 100%;
+    }
+}
+

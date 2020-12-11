@@ -1,0 +1,59 @@
+.home{
+    text-align: center;
+    background: rgb(7, 2, 29);
+    color: white;
+}
+
+.home form{
+    display: inline-block;
+    border: 2px solid rgb(151, 3, 250);
+    border-radius: 5px;
+    padding:10px;
+}
+
+.react-datetime-picker{
+   margin-left: 5px;
+   float: right;   
+   border-radius: 5px;
+   color: black;
+   background-color: white;
+}
+
+.react-datetime-picker__wrapper{
+    border-radius: 5px;
+}
+.question-form{
+    width:250px;
+    margin-left:20px;
+}
+
+#success-button{
+    font-weight: bold;
+    color: white;
+}
+.question-form input{
+    height:30px;
+}
+
+.submit{
+    text-align: center;
+}
+
+.back-button h3{
+    position: absolute;
+    text-align: center;
+    width: max-content;
+    display: inline-block;
+    margin-top:5px;
+    margin-left:8px;
+}
+
+
+@media screen and (max-width: 400px) {
+    .home form{
+        width: 100%;
+    }
+    .home .question-form{
+        width:90%;
+    }
+}
