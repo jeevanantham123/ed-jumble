@@ -1,11 +1,11 @@
 # ed-jumble
-*SERVER* \n
-  npm start / nodemon server.js \n
-*CLIENT* \n
-  cd client
-  npm install
-  npm start \n
-*DEPLOYMENT* \n
-git add .
-git commit -am "make it better"
-git push heroku master
+*SERVER* <br/>
+  npm start / nodemon server.js <br/>
+*CLIENT* <br/>
+  cd client<br/>
+  npm install<br/>
+  npm start <br/>
+*DEPLOYMENT* <br/>
+git add .<br/>
+git commit -am "make it better"<br/>
+git push heroku master<br/>
